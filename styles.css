@@ -1,0 +1,13 @@
+body{
+    background-color:#00FFFF;
+    text-align: center;
+}
+.heading{
+    font-size:4rem;
+    color: red;
+}
+.container{
+    font-size: 2rem;
+    font-family:serif;
+    font: Georgia;
+}
